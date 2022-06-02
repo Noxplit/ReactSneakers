@@ -5,7 +5,7 @@ import Cart from "./components/Cart";
 
 
 const arr = [
-  {name: 'Мужские Кроссовки Nike Blazer Mid Suede', price: 12999, },
+  {name: 'Муские Кроссовки Nike Blazer Mid Suede', price: 12999, },
   {name: 'Мужские Кроссовки Nike Air Max 2019', price: 8499, },
   {name: 'Мужские Кроссовки Puma Cross Fit 4', price: 9999, },
   {name: 'Мужские Кроссовки Adidas Run 2019', price: 4599, }
